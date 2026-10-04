@@ -20,10 +20,10 @@
 🚀 Always learning new tools and techniques to write more efficient pipelines.
 
 
-## 🛠️ My Toolkit
+<!-- ## 🛠️ My Toolkit
 
 ![skills](https://go-skill-icons.vercel.app/api/icons?i=python,ts,js,html,css,golang,tailwind,linux,docker,kubernetes,mysql,redis,mongodb,kafka,md,vue,bootstrap,jquery,nextjs,vite,nodejs,nginx,jenkins,git,githubactions,vscode,pycharm,idea,cloudflare&theme=light)
-
+ -->
 
 ## 📊 GitHub Stats
 
